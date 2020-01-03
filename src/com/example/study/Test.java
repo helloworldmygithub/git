@@ -1,7 +1,7 @@
 package com.example.study;
 /**
  * local change discription
- * @author helloworld
+ * @author hel
  *
  */
 public class Test {
