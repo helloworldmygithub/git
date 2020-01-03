@@ -1,7 +1,7 @@
 package com.example.study;
 /**
  * online and local change discription
- * @author hellow
+ * @author hellow0
  *
  */
 public class Main {
