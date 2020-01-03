@@ -1,2 +1,2 @@
 # git
-git study online
+git study online and local
