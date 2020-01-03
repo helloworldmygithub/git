@@ -1,2 +1,2 @@
-# git
-git study online and local
+# gitea
+git study online and locald d
