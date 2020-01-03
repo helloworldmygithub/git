@@ -1,2 +1,2 @@
 # gitea
-git study online and localdaregregddfdfgdfgdfgdg
+git study online and local
